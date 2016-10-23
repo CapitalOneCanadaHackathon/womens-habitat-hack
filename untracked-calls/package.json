@@ -1,0 +1,22 @@
+{
+  "name": "gift-the-code",
+  "version": "1.0.0",
+  "description": "Gift the code hackathon project for Women's Habitat CA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvanStoddard23/gift-the-code.git"
+  },
+  "author": "Evan Stoddard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EvanStoddard23/gift-the-code/issues"
+  },
+  "homepage": "https://github.com/EvanStoddard23/gift-the-code#readme",
+  "dependencies": {
+    "twilio": "^2.11.0"
+  }
+}
